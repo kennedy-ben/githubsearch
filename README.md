@@ -18,10 +18,27 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Clonning
 
-## Further help
+Make sure you have all requirements or running angular app installed.
+Clone the project in your machine {https://github.com/kennedy-ben/githubsearch.git}
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+###### Live Demo
+
+To view click here:https://kennedy-ben.github.io/githubsearch/
+
+## Tenchonolgies Used
+
+* Angular JS
+* HTML
+* CSS
+
+## Contribution
+Pull request are encouraged
+
+## Contacts Details
+You can contact me at makuanikennedy@gmail.com
+
+## Licence
+Copyright(c) 2021 Kennedy Bernard
