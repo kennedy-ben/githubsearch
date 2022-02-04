@@ -1,0 +1,1 @@
+export PATH=/home/kennedy/node-v16.13.1-linux-x64/bin:/home/kennedy/node-v16.13.1-linux-x64/bin:/home/kennedy/.nvm/versions/node/v14.10.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
