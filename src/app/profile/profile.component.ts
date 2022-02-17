@@ -11,7 +11,7 @@ export class ProfileComponent implements OnInit {
   repos: any = [];
   username!: string;
   _githubService: any;
-  constructor( profilecomponent: any) {
+  constructor() {
     this._githubService.getUser().subscribe((user: any) => {
       console.log(user);
       this.user = user;
@@ -36,4 +36,5 @@ export class ProfileComponent implements OnInit {
 
   }
 }
+
 
