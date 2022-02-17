@@ -6,67 +6,48 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a web application where users can create quotes and have those quotes voted (Upvote or downvote a quote) on whether they are terrible or are inspirational, delete a quote and see the number of upvotes and number of downvotes for each quote. 
 
-### Author
+ Weeksixip
 
-kenben
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
-**A student at Moringa School**
- 
-## Setup/Installation Requirements
+## Development server
 
-* Clone the repository from Github
- git clone git ""
-* Open the project with your perfect Intergrated Development Environment (IDE)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## User Story
-- User can view submited quotes.
-- Users has a toogle option where they can view quotes with their authors.
-- Users can see how many days have passed since the quote was submited.
-- Users can either like or dilike posted quotes
-- User can upload Quotes of their liking and have them liked or disliked.
+## Code scaffolding
 
-# Prerequisites
-To work with Quotes you need to have some few preresuisites.
-- Node.js
-- Angular framework
-- Typescript
-- Terminal
-If you dont have this requirements you could use the link above to help with the installation guide.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Live link
+## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
-## Known Bugs
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-* If only one quote is liked or disliked all the other quotes add their likes or dislikes respectively.
+## Installation
 
-## Technologies Used
+## Clonning
 
-1. HyperText Markup Language (HTML)
-2. Cascading Style Sheet (CSS)
-3. Bootstrap
-4. Javascript
-5. markdown
-6. Angular version 13
-7. Type Script
+Make sure you have all requirements or running angular app installed.
+Clone the project in your machine {https://github.com/kennedy-ben/githubsearch}
+
+###### Live Demo
 
 
-## Behaviour Driven Development (BDD)
 
-|input|output
-|-----|-----
-|quote|quote
-|your name|submitted by
-|name|author
+## Tenchonolgies Used
 
-## Support and contact details
+* Angular JS
+* HTML
+* CSS
 
-I am currently a sudent at the Moringa School, pursuing a Software in Development Course.
-Incase of any queries you can reach me at;
+## Contribution
+Pull request are encouraged
 
-## 
-makuanikenedy@gmail.com
+## Contacts Details
+You can contact me at makuanikennedy@gmail.com
 
-### Copyright and License
-This software is under the [MIT](License) license. Copyright (c) 2021
+## Licence
+Copyright(c) 2021 Kennedy Bernard
